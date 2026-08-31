@@ -45,6 +45,7 @@
   },
   "devDependencies": {
     "@iconify/react": "^6.0.2",
+    "@next/swc-wasm-nodejs": "16.1.6",
     "@react-email/ui": "^6.9.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
